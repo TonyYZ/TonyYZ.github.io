@@ -6,12 +6,12 @@ Personal academic website of Yutong Zhou. Plain HTML and CSS — no framework, n
 
 - `index.html` — page content
 - `style.css` — styles
-- `CV.pdf` — add your CV here (linked from the CV section)
+- `resume.pdf` — CV, linked from the CV section
 
 ## Deploy with GitHub Pages
 
 1. Create a public repository on GitHub named exactly `TonyYZ.github.io`.
-2. Add `CV.pdf` to the repository root.
+2. Add `resume.pdf` (your CV) to the repository root.
 3. Push the files:
 
    ```bash
